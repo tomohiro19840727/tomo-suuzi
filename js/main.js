@@ -124,5 +124,5 @@
     }
   }
 
-  new Game(６);
+  new Game(6);
 }
